@@ -5,7 +5,7 @@ import (
 	"math"
 	"os"
 
-	"github.com/go-portfolio/go-neuro/nn"
+	"github.com/go-portfolio/go-neuro-and-or-xor/nn"
 )
 
 func main() {
